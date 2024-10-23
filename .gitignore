@@ -1,0 +1,36 @@
+﻿## Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build Results
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+*.log
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+## Visual Studio Code
+.vscode/
+
+## Other
+*.DS_Store
+Thumbs.db
+
